@@ -2,6 +2,7 @@
 
 # **WinUnlocker**
 
+<img width="236" height="236" alt="fe4c439f3a1be55b255b19718bd01c52-removebg-preview" src="https://github.com/user-attachments/assets/27b26c26-adde-4c66-b47b-eee742a306fd" />
 
 Программа для разблокировки ограничений от вирусов
 
